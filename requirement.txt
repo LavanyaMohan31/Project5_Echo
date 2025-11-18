@@ -1,0 +1,9 @@
+emoji
+nltk
+contractions
+scikit-learn
+pandas
+matplotlib
+seaborn
+WordCloud
+textblob
